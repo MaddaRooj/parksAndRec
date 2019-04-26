@@ -1,0 +1,15 @@
+h1 {
+    color:steelblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+article{
+    margin-top: 10px;
+    padding: 5px 5px;
+}
+.visited {
+    border: red 2px dashed;
+}
+
+.notvisited {
+    border: green 2px solid;
+}
